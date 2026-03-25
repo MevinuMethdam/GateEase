@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        background-color: #050505;
+        background-image: radial-gradient(circle at 50% 0%, #111111 0%, #050505 100%);
+        background-attachment: fixed;
+        @apply text-[#EAEAEA] antialiased;
+        font-family: 'Onest', sans-serif;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(132, 132, 132, 0.15);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(132, 132, 132, 0.3);
+}
