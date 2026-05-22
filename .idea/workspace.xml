@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61e4f875-ba2e-44a2-b580-aa6db59c374b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MevinuMethdam&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MevinuMethdam/GateEase.git&quot;,
+    &quot;accountId&quot;: &quot;f521e18f-8365-4b17-a4c5-b7e2d1b12855&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39s85nBuOPj8tmtfcv1RkJhSkcR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mevin/Desktop/GateEase_App&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mevin\Desktop\GateEase_App\server" />
+      <recent name="C:\Users\mevin\Desktop\GateEase_App" />
+      <recent name="C:\Users\mevin\Desktop\GateEase_App\client\src\components" />
+      <recent name="C:\Users\mevin\Desktop\GateEase_App\client\src\pages\resident" />
+      <recent name="C:\Users\mevin\Desktop\GateEase_App\client\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e4f875-ba2e-44a2-b580-aa6db59c374b" name="Changes" comment="" />
+      <created>1771473238065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771473238065</updated>
+      <workItem from="1771473240580" duration="48859000" />
+      <workItem from="1771691323492" duration="665000" />
+      <workItem from="1771693694000" duration="2554000" />
+      <workItem from="1771925771089" duration="39168000" />
+      <workItem from="1772178783864" duration="2601000" />
+      <workItem from="1772194961078" duration="2917000" />
+      <workItem from="1772426903966" duration="48184000" />
+      <workItem from="1772691677890" duration="6122000" />
+      <workItem from="1772896923424" duration="1700000" />
+      <workItem from="1772906327709" duration="6554000" />
+      <workItem from="1772937960953" duration="12279000" />
+      <workItem from="1773720624580" duration="101000" />
+      <workItem from="1773721693452" duration="28257000" />
+      <workItem from="1773904152245" duration="304000" />
+      <workItem from="1773904467746" duration="1523000" />
+      <workItem from="1773906700169" duration="13853000" />
+      <workItem from="1773977553225" duration="2451000" />
+      <workItem from="1774087811767" duration="7602000" />
+      <workItem from="1774199866116" duration="680000" />
+      <workItem from="1774404982387" duration="4827000" />
+      <workItem from="1774420839506" duration="162000" />
+      <workItem from="1774423120185" duration="137000" />
+      <workItem from="1774435736456" duration="151000" />
+      <workItem from="1774436164217" duration="28211000" />
+      <workItem from="1774687314816" duration="2967000" />
+      <workItem from="1774693522613" duration="1960000" />
+      <workItem from="1774709930717" duration="5329000" />
+      <workItem from="1774773865946" duration="7969000" />
+      <workItem from="1774797745756" duration="9416000" />
+      <workItem from="1774885118768" duration="2572000" />
+      <workItem from="1775058687359" duration="3090000" />
+      <workItem from="1775284233922" duration="647000" />
+      <workItem from="1775402339092" duration="1060000" />
+      <workItem from="1775582523174" duration="673000" />
+      <workItem from="1775667854983" duration="2363000" />
+      <workItem from="1775706922015" duration="15383000" />
+      <workItem from="1775876881226" duration="23226000" />
+      <workItem from="1776236359935" duration="31164000" />
+      <workItem from="1776400942740" duration="44521000" />
+      <workItem from="1777104139071" duration="640000" />
+      <workItem from="1777123841256" duration="655000" />
+      <workItem from="1777277419880" duration="2706000" />
+      <workItem from="1777429002912" duration="20874000" />
+      <workItem from="1777691523823" duration="5292000" />
+      <workItem from="1777703871766" duration="335000" />
+      <workItem from="1777704258064" duration="3402000" />
+      <workItem from="1777709758889" duration="1643000" />
+      <workItem from="1777904382945" duration="4254000" />
+      <workItem from="1777959824822" duration="2844000" />
+      <workItem from="1778144709936" duration="1857000" />
+      <workItem from="1779296846695" duration="2875000" />
+      <workItem from="1779421906916" duration="657000" />
+      <workItem from="1779445476587" duration="3811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
